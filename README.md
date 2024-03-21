@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rahul-Suthar
-- 👀 I’m interested in how technology works. 
-- 🌱 I’m currently learning C language. 
-- 💞️ I’m looking to collaborate on my c repo
-- 📫 
+- 👀 mostly interested in how technology works. 
+- 🌱 currently learning C language. 
+- 💞️ searching for collaborate on my c reports 
 
 <!---
 Rahul-Suthar/Rahul-Suthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
