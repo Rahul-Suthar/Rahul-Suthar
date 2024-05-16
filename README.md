@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rahul-Suthar
+- 👋 Hi, I’m Rahul Suthar
 - 👀 mostly interested in how technology works. 
-- 🌱 currently learning C language. 
-- 💞️ searching for collaborate on my c reports 
+- 🌱 currently learning C, Python, Front-end.
+- 💞️ Interested  in Machine Learning, Web-Dev
 
 <!---
 Rahul-Suthar/Rahul-Suthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
