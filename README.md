@@ -1,22 +1,21 @@
 # Hi there, I'm Rahul Suthar 👋
 
-I'm a Computer Science student with hands-on experience in C, Python, HTML, CSS, and JavaScript. I'm passionate about Front-end Development, Machine Learning, and I'm currently learning MySQL and React.
+I'm a Computer Science student with hands-on experience in C, Python, HTML, CSS, and JavaScript. I'm passionate about Front-end Development and Machine Learning, and I'm currently learning MySQL and React.
 
 ## 🛠 Skills & Technologies
 
 <img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-2f5690ee185f5345025b1a5b0bf2c8aa" alt="Luffy" hight="500" width="300" />
 
-- **Programming Languages**: C, Python
-- **Web Development**: HTML, CSS
-- **Frameworks/Libraries**: React (learning)
-- **Databases**: MySQL (learning)
-- **Other Technologies**: Git, GitHub, Jupyter Notebook
+- **Programming Languages**: C, Python, Java
+- **Frameworks/Libraries**: Numpy, Pandas, Flask
+- **Databases**: MySQL, SQLite,
+- **Other Technologies**: Git, GitHub, AWS, Jupyter Notebook, Bootstrap, Tailwind, Jinja2
 
 ## 🌱 Currently Learning
 
-- **Front-end Development**: JavaScript, React
+- **Full-Stack**: JavaScript, React.js, Node.js, Django
 - **Machine Learning**: TensorFlow, OpenCV, Scikit-learn
-- **Databases**: MySQL
+- **Databases**: PostgreSQL, MongoDB
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
