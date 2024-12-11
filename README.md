@@ -63,14 +63,14 @@ I'm a Computer Science student with hands-on experience in C, Python, HTML, CSS,
 Here are some of the projects I've been working on:
 
 ### Project 1: Attendance System Using Face Recognition
-- **Description**: Detects students present in class via classroom camera and using the Face-recognition model marks their attendance on the University portal.
+- **Description**: This project automates attendance marking in university classrooms using a face recognition model. The system utilizes a classroom camera to detect students present and seamlessly updates their attendance on the University portal. It's designed to save time, minimize manual effort, and ensure accuracy.
 - **Technologies Used**: Python, DeepFace, OpenCV, Liveliness
-- **Repository**: [GitHub Link](https://github.com/your-username/project-repo)
+- **Repository**: [GitHub Link](https://github.com/rahul-suthar/machine-learning)
 
-### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used.
-- **Repository**: [GitHub Link](https://github.com/your-username/project-repo)
+### Project 2: Tasks
+- **Description**: The Tasks application is a simple and effective tool to help you manage your daily to-do list. Whether it’s adding new tasks, updating details, marking them as done, or deleting completed ones, this app has you covered. It’s designed to be straightforward and user-friendly, making task management seamless and enjoyable.
+- **Technologies Used**: Python, Flask, HTML, CSS, Bootstrap, SQLite
+- **Repository**: [GitHub Link](https://github.com/rahul-suthar/Tasks)
 
 ## ⚡ Fun Fact
 Share a fun fact about yourself!
