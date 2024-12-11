@@ -65,7 +65,7 @@ Here are some of the projects I've been working on:
 ### Project 1: Attendance System Using Face Recognition
 - **Description**: This project automates attendance marking in university classrooms using a face recognition model. The system utilizes a classroom camera to detect students present and seamlessly updates their attendance on the University portal. It's designed to save time, minimize manual effort, and ensure accuracy.
 - **Technologies Used**: Python, DeepFace, OpenCV, Liveliness
-- **Repository**: [GitHub Link](https://github.com/rahul-suthar/machine-learning)
+- **Repository**: [GitHub Link](https://github.com/Rahul-Suthar/Machine-Learning-Projects)
 
 ### Project 2: Tasks
 - **Description**: The Tasks application is a simple and effective tool to help you manage your daily to-do list. Whether it’s adding new tasks, updating details, marking them as done, or deleting completed ones, this app has you covered. It’s designed to be straightforward and user-friendly, making task management seamless and enjoyable.
