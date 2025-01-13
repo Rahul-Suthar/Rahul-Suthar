@@ -84,9 +84,9 @@ Share a fun fact about yourself!
   <div style="flex: 1; margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
   </div>
-</div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
+  <div style="flex:1; margin-left:20px;">
+    <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
+  </div>
 </div>
 
 
