@@ -1,21 +1,21 @@
 # Hi there, I'm Rahul Suthar 👋
 
-I'm a Computer Science student with hands-on experience in C, Python, HTML, CSS, and JavaScript. I'm passionate about Front-end Development and Machine Learning, and I'm currently learning MySQL and React.
+Computer Science major with hands on experience with C, Python, Java, JavaScript. I am committed to building effective full-stack web applications that use machine learning to improve user experiences and solve real-world challenges. I am looking for an internship where I can apply my skills and contribute to valuable projects.
 
 ## 🛠 Skills & Technologies
 
 <img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-2f5690ee185f5345025b1a5b0bf2c8aa" alt="Luffy" hight="500" width="300" />
 
-- **Programming Languages**: C, Python, Java
+- **Programming Languages**: C, Python, Java, JavaScript(es6)
 - **Frameworks/Libraries**: Numpy, Pandas, Flask
-- **Databases**: MySQL, SQLite,
-- **Other Technologies**: Git, GitHub, AWS, Jupyter Notebook, Bootstrap, Tailwind, Jinja2
+- **Databases**: MySQL, SQLite, MongoDB
+- **Other Technologies**: Git, GitHub, AWS, Jupyter Notebook, Bootstrap, Tailwind, Jinja2, linux
 
 ## 🌱 Currently Learning
 
-- **Full-Stack**: JavaScript, React.js, Node.js, Django
+- **Full-Stack**: React.js, Node.js, Django
 - **Machine Learning**: TensorFlow, OpenCV, Scikit-learn
-- **Databases**: PostgreSQL, MongoDB
+- **Databases**: PostgreSQL
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -62,18 +62,15 @@ I'm a Computer Science student with hands-on experience in C, Python, HTML, CSS,
 ## 💼 Projects
 Here are some of the projects I've been working on:
 
-### Project 1: Attendance System Using Face Recognition
-- **Description**: This project automates attendance marking in university classrooms using a face recognition model. The system utilizes a classroom camera to detect students present and seamlessly updates their attendance on the University portal. It's designed to save time, minimize manual effort, and ensure accuracy.
+### Project 1: Face Recognition
+- **Description**: A simple face recognition model with supervised learning to detect people within the camera range.
 - **Technologies Used**: Python, DeepFace, OpenCV, Liveliness
 - **Repository**: [GitHub Link](https://github.com/Rahul-Suthar/Machine-Learning-Projects)
 
-### Project 2: Tasks
-- **Description**: The Tasks application is a simple and effective tool to help you manage your daily to-do list. Whether it’s adding new tasks, updating details, marking them as done, or deleting completed ones, this app has you covered. It’s designed to be straightforward and user-friendly, making task management seamless and enjoyable.
-- **Technologies Used**: Python, Flask, HTML, CSS, Bootstrap, SQLite
-- **Repository**: [GitHub Link](https://github.com/rahul-suthar/Tasks)
-
-## ⚡ Fun Fact
-Share a fun fact about yourself!
+### Project 2: Task-Wise
+- **Description**: TaskWise is a productivity web app that helps users manage their daily tasks with a gamified twist. Designed to build motivation and consistency, TaskWise rewards users for timely task completion through a unique "Dedication Level" system. It’s more than a to-do app — it’s a motivation booster 🔥
+- **Technologies Used**: React.js, Node.js, Express.js, MongoDB Atlas Cloud, tailwindcss
+- **Repository**: [GitHub Link](https://github.com/rahul-suthar/task-wise)
 
 ## 📈 GitHub Stats
 
