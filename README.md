@@ -1,19 +1,16 @@
 # Hi there, I'm Rahul Suthar 👋
 
-Computer Science major with hands on experience with C, Python, Java, JavaScript. I am committed to building effective full-stack web applications that use machine learning to improve user experiences and solve real-world challenges. I am looking for an internship where I can apply my skills and contribute to valuable projects.
+Computer Science major with hands-on experience with Python, Java, JavaScript, React.js and Node.js. I am committed to building effective full-stack web applications that use machine learning to improve user experiences and solve real-world challenges. I am looking for an internship where I can apply my skills and contribute to valuable projects.
 
 ## 🛠 Skills & Technologies
 
-<img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-2f5690ee185f5345025b1a5b0bf2c8aa" alt="Luffy" hight="500" width="300" />
-
 - **Programming Languages**: C, Python, Java, JavaScript(es6)
-- **Frameworks/Libraries**: Numpy, Pandas, Flask
+- **Frameworks/Libraries**: Numpy, Pandas, Flask, React.js, Node.js
 - **Databases**: MySQL, SQLite, MongoDB
-- **Other Technologies**: Git, GitHub, AWS, Jupyter Notebook, Bootstrap, Tailwind, Jinja2, linux
+- **Other Technologies**: Git, GitHub, AWS, Jupyter Notebook, Bootstrap, Tailwind, Jinja2, Linux
 
 ## 🌱 Currently Learning
 
-- **Full-Stack**: React.js, Node.js, Django
 - **Machine Learning**: TensorFlow, OpenCV, Scikit-learn
 - **Databases**: PostgreSQL
 
