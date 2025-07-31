@@ -1,59 +1,98 @@
-# Hi there, I'm Rahul Suthar 👋
+# 👋 Hi, I'm Rahul Suthar
 
-Computer Science major with hands-on experience with Python, Java, JavaScript, React.js and Node.js. I am committed to building effective full-stack web applications that use machine learning to improve user experiences and solve real-world challenges. I am looking for an internship where I can apply my skills and contribute to valuable projects.
+I’m a backend-focused Computer Science undergrad passionate about building reliable, real-world software systems using Python, Flask, Node.js, and modern cloud tooling. I believe in learning through building — and I’m currently seeking **SDE/backend internships** where I can apply and grow my skills in production-grade environments.
 
-## 🛠 Skills & Technologies
+---
 
-- **Programming Languages**: Python, Java, JavaScript
-- **Frameworks/Libraries**: Next.js, React.js, Node.js, Express.js, Flask, Numpy, Pandas
-- **Databases**: MySQL, SQLite, MongoDB
-- **Other Technologies**: Git, GitHub, Tailwindcss, AWS, Jupyter Notebook, Bootstrap, Jinja2, Linux
+## 🔧 Skills & Technologies
 
-## 🌱 Currently Learning
+**Languages**: Python, JavaScript (ES6+), Java  
+**Backend**: Flask, Express.js, Node.js  
+**Frontend**: TailwindCSS, React.js, Next.js  
+**Databases**: PostgreSQL, MongoDB, MySQL, SQLite  
+**Tools**: Git, GitHub, Linux, Jupyter, Postman, Vercel, Render, Railway  
+**Concepts**: REST APIs, JWT Auth, MVC, OOPs, Basic System Design
 
-- **Machine Learning**: TensorFlow, OpenCV, Scikit-learn
-- **Databases**: PostgreSQL
+---
 
-## 🔭 Areas of Interest
-- **Front-end Development**: Creating interactive and responsive web applications
-- **Machine Learning**: Implementing and experimenting with machine learning models
+## 🚀 Highlight Projects
 
-## 📫 How to Reach Me
+### 🧥 ReWear – Sustainable Fashion Swapping Platform  
+**Full-Stack App | Team Collaboration**  
+A full-stack web platform built for the Odoo Hackathon to promote sustainable clothing exchange.  
+**Tech Stack**: Flask, PostgreSQL, JWT Auth, React.js, TailwindCSS  
+- Designed and built the backend REST APIs with user auth, item uploads, swap logic, and leaderboard.  
+- Deployed using Render (backend) and Vercel (frontend).
+
+🔗 [Repo](https://github.com/Rahul-Suthar/Rewear_Odoo) | 🌐 [Live Demo](https://rewear-odoo-lovat.vercel.app)
+
+---
+
+### 🧪 Flask-wiz – Full-Stack Flask App Generator  
+**Open-source CLI Tool | Core Contributor**  
+A developer-friendly CLI tool that scaffolds full Flask applications with your choice of:
+
+- ⚙️ **Frontend frameworks**: React, Next.js, Angular.js, Vue.js or none  
+- 🗃️ **Databases**: SQLite, PostgreSQL, MySQL, MongoDB
+
+Flask-wiz allows developers to instantly generate production-ready boilerplate code with clean MVC structure, and templating engines like Jinja2 or frontend integrations.
+
+🛠️ **My Contributions**:
+- Refactored folder structure for maintainability  
+- Improved CLI prompts for smoother user flow  
+- Fixed SQLite init bugs and DB config issues  
+- Added logic for flexible frontend/backend decoupling
+
+🔗 [Repo](https://github.com/rahul-suthar/flask-wiz)
+
+
+---
+
+### 🧠 Jar_ai – Voice-Controlled Assistant (Archived)  
+Built a Python assistant to handle basic system/web tasks via voice. Great exploration of APIs, TTS, and automation.
+
+🔗 [Repo](https://github.com/rahul-suthar/jar_ai)
+
+---
+
+## 📚 Learning Path
+
+- Solved **~75 LeetCode** problems  
+  *(20 Medium, ~5 Hard)*  
+- Focused on mastering: Arrays, HashMaps, Recursion, Binary Search
+- Learning more from Kunal Kushwaha's DSA bootcamp playlist
+- Actively improving with ML tools and advanced system design
+
+---
+
+## 🏁 Currently Building
+
+> 🔧 **CodeMentor AI** – A floating AI assistant that watches your coding (LeetCode/VS Code) and gives hints like a real mentor.  
+> 📍 Technologies: Chrome Extension + Flask + GPT API  
+> 🤖 Stay tuned on [GitHub](https://github.com/rahul-suthar) for release.
+
+---
+
+## 📫 Contact Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rahulsuthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsuthar" height="30" width="40" /></a>
-<a href="https://kaggle.com/rahul753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahul753" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rahul-suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul-suthar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulsuthar7357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulsuthar7357" height="30" width="40" /></a>
-<a href="mailto:rahulsuthar@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/243092/gmail.svg" alt="rahulsuthar@gmail.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rahulsuthar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/rahul-suthar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:rahulsuthar7357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" height="28" />
+  </a>
 </p>
 
-## 💼 Projects
-Here are some of the projects I've been working on:
+---
 
-### Project 1: Face Recognition
-- **Description**: A simple face recognition model with supervised learning to detect people within the camera range.
-- **Technologies Used**: Python, DeepFace, OpenCV, Liveliness
-- **Repository**: [GitHub Link](https://github.com/Rahul-Suthar/Machine-Learning-Projects)
+## 📊 GitHub Stats
 
-### Project 2: Task-Wise
-- **Description**: TaskWise is a productivity web app that helps users manage their daily tasks with a gamified twist. Designed to build motivation and consistency, TaskWise rewards users for timely task completion through a unique "Dedication Level" system. It’s more than a to-do app — it’s a motivation booster 🔥
-- **Technologies Used**: React.js, Node.js, Express.js, MongoDB Atlas Cloud, tailwindcss
-- **Repository**: [GitHub Link](https://github.com/rahul-suthar/task-wise)
-- **task-wise**: [live link](https://task-wise-roan.vercel.app)
-
-## 📈 GitHub Stats
-
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Suthar&show_icons=true&theme=radical&hide=prs,issues,contribs" />
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
-  </div>
-  <div style="flex:1; margin-left:20px;">
-    <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
-  </div>
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Suthar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
+</p>
